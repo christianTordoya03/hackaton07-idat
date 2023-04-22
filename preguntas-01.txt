@@ -1,0 +1,12 @@
+•	¿Qué es RWD? 
+- Técnica para desarrollar interfaces que hace uso de media queries y hojas de estilos.
+
+•	¿Cuáles son los beneficios de RWD? 
+- Mejora del posicionamiento en los motores de búsqueda.
+- Ahorro de costes y horas de trabajo, otra de las ventajas del diseño responsive.
+- Mayor usabilidad de la página.
+
+•	Definir breakpoints 
+- Es el ancho de un dispositivo en el cual queremos que la forma en la que mostramos nuestro contenido con CSS cambie.
+•	Definir reglas css por breakpoint
+- Reglas para medir el tamaño de dispositivo en uso. 
