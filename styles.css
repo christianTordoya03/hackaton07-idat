@@ -418,3 +418,40 @@ body{
     color: #2F80ED;
     margin-top: 30px;
 }
+
+@media screen and (max-width: 820px) {
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .block__final-skills{
+        display: flex;
+        width: 428px;
+        margin-left: 20px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .block__final-project01{
+        width: 426px;
+        margin-left: 23px;
+    }
+    .block__final-project02,
+    .block__final-project03,
+    .block__final-project04{
+        width: 415px;
+        margin-left: 21px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .block__final-blog01,
+    .block__final-blog02{
+        width: 460px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+  }
